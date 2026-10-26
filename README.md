@@ -27,7 +27,7 @@ distributions, trends, continent-level comparisons and country scatter plots.
 
 **Findings** — both indicators vary clearly by region but don't follow the same
 geographic pattern; more sunlight did *not* line up with higher wellbeing (if
-anything the global relationship is slightly negative); and life satisfaction and
+anything the global relationship is negative); and life satisfaction and
 suicide rate are related but not interchangeable — population mental health is
 better read through more than one indicator.
 
