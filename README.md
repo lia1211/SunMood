@@ -1,4 +1,8 @@
-# Mental Health Around the World — Data Exploration & Visualisation (R)
+# SunMood
+
+**Does sunlight affect wellbeing? Global data exploration in R + interactive Shiny story**
+
+*Monash University · FIT5147 Data Exploration and Visualisation · 2026*
 
 Individual coursework from Monash FIT5147 (Semester 1, 2026), built around one
 self-chosen question: **do environmental and geographic factors — especially
